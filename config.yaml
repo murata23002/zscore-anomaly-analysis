@@ -1,0 +1,7 @@
+filters:
+  - field: "score"
+    operator: ">"
+    value: 0.0
+  - field: "class_label"
+    operator: "=="
+    value: "Body"    
